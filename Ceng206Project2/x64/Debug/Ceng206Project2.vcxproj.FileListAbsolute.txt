@@ -1,0 +1,4 @@
+C:\Users\patir\source\repos\Ceng206Project2\x64\Debug\Ceng206Project2.MyForm.resources
+C:\Users\patir\source\repos\Ceng206Project2\x64\Debug\Ceng206Project2.vcxproj.GenerateResource.cache
+C:\Users\patir\source\repos\Ceng206Project2\x64\Debug\Ceng206Project2.exe
+C:\Users\patir\source\repos\Ceng206Project2\x64\Debug\Ceng206Project2.vcxproj.AssemblyReference.cache

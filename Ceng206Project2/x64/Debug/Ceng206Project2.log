@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(58,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(59,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(176,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(194,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(208,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(283,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(301,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(315,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(345,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(365,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(379,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(402,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(421,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\Scheduler.h(435,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\patir\source\repos\Ceng206Project2\ReadingFile.h(200,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  The contents of <filesystem> are available only with C++17 or later.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Ceng206Project2.vcxproj -> C:\Users\patir\source\repos\Ceng206Project2\x64\Debug\Ceng206Project2.exe
